@@ -20,5 +20,6 @@ public class MyApp
 
         JENNA.timesTables(dan);
         System.out.println();
+        scandan.close();
     }
 }
