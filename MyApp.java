@@ -1,9 +1,10 @@
 import java.util.Scanner;
 /**
- 
-MyApp 사용자 입력을 받아 구구단 출력.*
-@author (2020315044 허진영)
-@version (2026.05.02)*/
+ * MyApp 사용자 입력을 받아 구구단 출력.
+ * 
+ * @author (2020315044 허진영)
+ * @version (2026.05.02)
+ */
 public class MyApp
 {
     public static void main(String[] args){
