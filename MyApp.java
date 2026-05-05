@@ -3,15 +3,15 @@ import java.util.Scanner;
  * MyApp 사용자 입력을 받아 구구단 출력.
  * 
  * @author (2020315044 허진영)
- * @version (2026.05.02)
+ * @version (2026.05.05)
  */
 public class MyApp
 {
     public static void main(String[] args){
-        Student JENNA = new Student("JENNA", 2021320032);
-        Student JOAN = new Student("JOAN");
-        Student MARIA = new Student("MARIA", 2020320020);
-        Student JAMES = new Student("JAMES", 2024320031);
+        Student JENNA = new Student("JENNA", "R005");
+        Student JOAN = new Student("JOHN", "R010");
+        Student MARIA = new Student("MARIA", "R029");
+        Student JAMES = new Student("JAMES", "R009");
 
         System.out.println("단을 입력해주세요~");
 
