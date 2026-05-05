@@ -8,25 +8,17 @@
 public class Student
 {
     private String name;
-    private int id;
+    private String id;
 
     /**
      * Student 클래스의 객체 생성자
      */
-    public Student(String name, int id)
+    public Student(String name, String id)
     {
         this.name = name;
         this.id = id;
     }
     
-    /**
-     * Student 클래스의 id를 제외한 오버로딩 객체 생성자
-     */
-    public Student(String name)
-    {
-        this.name = name;
-    }
-
     /**
      * 파라미터로 받은 단을 계산해 객체 이름과 구구단을 출력하는 메서드
      *
