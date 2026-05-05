@@ -3,7 +3,7 @@
  * Student 구구단이 가능한 학생이 만들어지는 클래스.
  *
  * @author (2021320032 임기홍)
- * @version (2026 05 02)
+ * @version (2026 05 05)
  */
 public class Student
 {
